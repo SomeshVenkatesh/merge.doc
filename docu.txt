@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Kongu engineering college,kec
+=======
+Kongu engineering college
+>>>>>>> b
